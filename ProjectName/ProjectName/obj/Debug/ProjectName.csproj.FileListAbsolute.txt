@@ -1,0 +1,10 @@
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\bin\Debug\ProjectName.exe.config
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\bin\Debug\ProjectName.exe
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\bin\Debug\ProjectName.pdb
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.csprojAssemblyReference.cache
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.Form1.resources
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.Properties.Resources.resources
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.csproj.GenerateResource.cache
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.csproj.CoreCompileInputs.cache
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.exe
+C:\Users\PCL-B00-00\source\repos\ProjectName\ProjectName\obj\Debug\ProjectName.pdb
